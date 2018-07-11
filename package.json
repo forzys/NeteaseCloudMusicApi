@@ -15,7 +15,7 @@
   "author": "",
   "license": "MIT",
   "engines": {
-      "node": "4.10.x"
+      "node": "v6.11.5"
   },
   "dependencies": {
     "apicache": "^1.2.1",
