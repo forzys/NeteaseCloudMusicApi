@@ -14,7 +14,6 @@
   ],
   "author": "",
   "license": "MIT",
-   //指明node.js运行所需要的版本
   "engines": {
       "node": "4.10.x"
   },
